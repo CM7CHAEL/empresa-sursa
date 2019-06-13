@@ -1,0 +1,41 @@
+*{
+	padding: 3px;
+	margin: 0px;
+}
+body{
+	background-color: #000;
+}
+.titulo{
+    color: #fff;
+    font-size: 55px;
+    text-align: center;
+    padding: 25px;
+}
+ img {
+    width: 100px;
+    height: 100px;
+
+ }
+
+
+ /*<td class="Valores" colspan="2"><center><h2>VALORES</h2></center><p><b>Satisfacción al cliente:</b> Ofrecer a nuestros clientes experiencias positivas a través de productos y   servicios de calidad.</p>  <br>
+
+<p><b>Trabajo en equipo    :</b> Unimos talento, experiencias, conocimientos y esfuerzos para lograr nuestros objetivos.</p> <br>
+
+<p><b>Honestidad:</b>Actuamos con responsabilidad y transparencia los recursos que se nos encomiendan y mostramos respeto por los bienes ajenos porque expresamos con claridad lo que pensamos y creemos. Nos comportamos conforme a las normas de la empresa, teniendo siempre presente las consecuencias de nuestros actos. </p><br>
+
+<p><b>Seguridad:</b> Fomentamos el trabajo con acciones y condiciones seguras</p> <br>
+
+<p><b>Responsabilidad social:</b>Servimos a la sociedad respetando y cuidando el medio ambiente</p>
+</td>
+</tr>
+  <table border="0" cellspacing="0" width="100%">
+  <tr>
+  	<td class="Mision"><center><h2>MISIÓN</h2></center>
+        <p> Satisfacer y abastecer la demanda nacional con un fuerte compromiso <br>de proporcionar los más altos estándares de calidad y profesionalismo <br>con precios competitivos que nos permitan una apropiada rentabilidad. 	<br> Manteniendo un agradable ambiente de trabajo, operado por un equipo <br>humano comprometido a superar las expectativas de los clientes.</p>
+ </td>
+
+ <td class="Vision"><center><h2>VISIÓN</h2></center>
+<p align="left">Consolidarse como una empresa de energía integrada y competitiva, líder en el mercado nacional.</p></td>
+  </tr>
+<tr>

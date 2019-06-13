@@ -1,0 +1,36 @@
+.Banner{
+    width:  100%;
+    height: 400px;
+    border: 3px solid #3E4442;
+    margin: auto;
+    
+ /*  background-image: url(Arequipa/a1.JPG);*/
+    background-size: 100% 100%;
+    animation-name: banner;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    /*animation-name: banner 10s infinite;*/
+    
+}
+@keyframes banner {
+   0%, 30% { 
+    background-image: url(Img/Img1.jpg);
+       opacity: 1;
+    }
+    31%,34%{
+        opacity: 0.1;
+        }
+   35%, 65% {
+     background-image: url(Img/Img2.jpg); 
+       opacity: 1;
+}
+        66%,69%{
+        opacity: 0.1;
+        }
+       70%, 100%{
+           opacity: 1;
+     background-image: url(Img/Img3.jpg);
+       
+}
+    
+    }

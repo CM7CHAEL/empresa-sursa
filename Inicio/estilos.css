@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+header {
+    width: 100%;
+    height: 50px;
+    background: #333;
+    color:  #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;      
+}
+.contenedor {
+    width: 98%;
+    margin: auto;
+  
+}
+h1 {
+    float: left;
+}
+header .contenedor {
+    display: table;   
+}
+section {
+    width: 100%;
+    margin-bottom: 25px;
+    
+}
+#bienvenidos {
+  text-align: center;
+}
+footer .contenedor {
+   display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+.copy  {
+font-size: 20px;
+    
+}
+.sociales {
+width: 100%;
+    text-align: center;
+        font-size: 28px;
+}
+.sociales a  {
+    color: #333;
+    text-decoration: none;
+}   
+
+
+
+
+
+
+
+
+/*<div class="contenedor">
+                    <div class="info-pet">
+                        <img src="img/Balon10.jpg">
+                        <h4>Balón-10</h4>
+                        
+                    </div>
+                    <div class="info-pet">
+                        <img src="img/Balon15.jpg">
+                        <h4>Balón-15</h4>
+                    </div>
+                    <div class="info-pet">
+                        <img src="img/Balon5.jpg">
+                        <h4>Balón-5</h4>
+                    </div>
+                    <div class="info-pet">
+                        <img src="img/Balon45.jpg">
+                        <h4>Balón-45</h4>
+                    </div>

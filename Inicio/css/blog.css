@@ -1,0 +1,22 @@
+h2 {
+  text-align: center;
+}
+li {
+  text-align: center;
+    font-size: 18px;
+}
+
+#blog .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+# blog article {
+    margin: 15px;
+    
+}
+#blog img  {
+width: 100%;
+    max-width: 280px;
+    
+}

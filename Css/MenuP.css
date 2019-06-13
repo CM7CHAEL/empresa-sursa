@@ -1,0 +1,36 @@
+li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+h1{
+	color: #fff;
+}
+
+.Menu {
+    width: 200px;
+    margin-top: 50px;
+}
+
+.Menu ul{
+ list-style:none;
+ } 
+
+.Menu ul li{
+  margin-top:20px;
+  font-family:tahoma;
+  font-size:20px;
+  background-color:#639bb3;
+  width:150px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius:20px 0px 0px 20px; 
+  padding-left:20px;
+  box-shadow:5px 0px 10px #939393;
+ -webkit-transition:padding-left 0.9s; color:white; 
+   } 
+
+.Menu ul li:hover{ 
+    padding-left:50px; 
+   
+  }

@@ -1,0 +1,32 @@
+
+ *{
+    margin: 0px;
+    padding: 0px;
+ }
+body{
+    margin: 0;
+    font-family: sans-serif; 
+    background-color: #eee;   
+}
+h2{
+	margin: 15px;
+	font-size: 25px;
+}
+p{
+	margin: 25px;
+	color: #000;
+}
+.Formulario2{
+	width: 500px;
+	height: 300px;
+    border: 2px solid black;
+
+}
+fieldset{
+		height: 260px;
+}
+
+/*<embed src="Nombre.mp4" width=tamaño type="video/mp4"></embed>*/
+.ImagenMapa{
+	padding: 30 120 0 0 ;
+}
